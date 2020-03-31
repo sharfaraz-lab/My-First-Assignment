@@ -1,0 +1,14 @@
+What is Full Stack Development, Definition?
+
+Full stack development refers to the development of both front end and back end portions of an application. This web development process involves all three layer- Presentation layer(front end part that deals with the user interface), Business Logic Layer(back end part that deals with data validation) and the database LayerHaving a specialist work on each of the different subsystems of web development process proves quite complex and expensive. Companies are demanding full stack developers who are proficient in working across multiple stacks.
+A full stack developer has the functional knowledge and the ability to work on all aspects involved in building an application. He is proficient in Writing optimized front-end code in HTML, Java, JavaScript.
+Creating and using APIs and writing backend code in Ruby, Python/Java
+Working with system infrastructure including hardware and OS
+Networking, Security
+Understanding, creating and querying databases
+Project management and Client coordination
+Here are some of the most common technologies that you will develop expertise in, under each segment.
+Front end- HTML, HTML5, JavaScript, J Query, CSS3
+Backend- Ruby on Rails, PHP, Angular2, Node.js
+Database- MySQL, MongoDB, CouchDB
+Debugging/Version Control- GIT, Grunt, Xdebug, Subversion
