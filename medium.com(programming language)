@@ -1,0 +1,18 @@
+A program is a set of instructions given to a computer to perform a specific operation. or computer is a computational device which is used to process the data under the control of a computer program.While executing the program, raw data is processed into a desired output format. These computer programs are written in a programming language which are high level languages. High level languages are nearly human languages which are more complex then the computer understandable language which are called machine language, or low level language
+he computer only understands binary language (the language of 0’s and 1’s) also called machine-understandable language or low-level language but the programs we are going to write are in a high-level language which is almost similar to human language.
+A programming language must be simple, easy to learn and use, have good readability and human recognizable.
+Abstraction is a must-have Characteristics for a programming language in which ability to define the complex structure and then its degree of usability comes.
+A portable programming language is always preferred.A programming language should provide single environment known as Integrated Development Environment(IDE).
+
+Most Popular Programming Languages –
+C
+Python
+C++
+Java
+SCALA
+C#
+R
+Ruby
+Go
+Swift
+JavaScript
